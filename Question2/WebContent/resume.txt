@@ -1,0 +1,17 @@
+XXXXXXXX                                                     Java Developer
+
+Ph no:XXXXXXXX 						                XXXXXXXXXXX@gmail.com
+
+SUMMARY
+	A highly-motivated and a productive team player with strong communication, 
+	interpersonal, organizational, time management, analytical and problem solving 
+	skills. Reliable and dedicated with the ability to grasp and apply new procedures
+	quickly; organize and prioritize tasks to meet deadlines and adapt readily to 
+	new challenges.
+CORE QUALIFICATIONS
+•	Having * year of experience in the IT Industry with proficiency in Software
+    Design, Development and Deployment of Web applications using Java, J2EE and
+    related Technologies.
+•	Professional experience in using Core Technologies Java, J2EE, Servlets, JSP,
+    JDBC, JavaBeans, JNDI, JMS.
+•	Good experience with web technologies like HTML, CSS, JavaScript, and Angular.js.
